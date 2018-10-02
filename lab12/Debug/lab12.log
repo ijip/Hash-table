@@ -1,0 +1,7 @@
+﻿  lab12.cpp
+e:\маргошвил идрис\c++\lab12\lab12\hashtable.h(23): warning C4018: <: несоответствие типов со знаком и без знака
+e:\маргошвил идрис\c++\lab12\lab12\lab12.cpp(37): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note:  см. объявление "strtok"
+e:\маргошвил идрис\c++\lab12\lab12\lab12.cpp(45): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note:  см. объявление "strtok"
+  lab12.vcxproj -> E:\Маргошвил Идрис\C++\lab12\Debug\lab12.exe
